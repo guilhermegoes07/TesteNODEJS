@@ -1,6 +1,6 @@
-<h1>Teste para a vaga de Programador Full Stack em React e Node.js</h1>
+<h1>Gerenciamento de Produtos Full Stack em React e Node.js</h1>
 
-<p>Este repositório contém a solução para o teste técnico solicitado para a vaga de Programador Full Stack, utilizando React no frontend e Node.js no backend. O sistema gerencia produtos com funcionalidades de CRUD e implementa autenticação de usuário via JWT.</p>
+<p>Gerenciamento de Produtos utilizando React no frontend e Node.js no backend. O sistema gerencia produtos com funcionalidades de CRUD e implementa autenticação de usuário via JWT.</p>
 
 <h2>Tecnologias Utilizadas</h2>
 
